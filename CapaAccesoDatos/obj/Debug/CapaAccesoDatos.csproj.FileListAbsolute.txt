@@ -1,0 +1,5 @@
+C:\Users\mecc\documents\visual studio 2015\Projects\Academia1\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\mecc\documents\visual studio 2015\Projects\Academia1\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\mecc\documents\visual studio 2015\Projects\Academia1\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\mecc\documents\visual studio 2015\Projects\Academia1\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\mecc\Documents\Visual Studio 2015\Projects\Academia1\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojResolveAssemblyReference.cache

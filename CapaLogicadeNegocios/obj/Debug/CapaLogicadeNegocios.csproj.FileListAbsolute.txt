@@ -1,0 +1,7 @@
+C:\Users\mecc\documents\visual studio 2015\Projects\Academia1\CapaLogicadeNegocios\bin\Debug\CapaLogicadeNegocios.dll
+C:\Users\mecc\documents\visual studio 2015\Projects\Academia1\CapaLogicadeNegocios\bin\Debug\CapaLogicadeNegocios.pdb
+C:\Users\mecc\documents\visual studio 2015\Projects\Academia1\CapaLogicadeNegocios\bin\Debug\CapaAccesoDatos.dll
+C:\Users\mecc\documents\visual studio 2015\Projects\Academia1\CapaLogicadeNegocios\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\mecc\documents\visual studio 2015\Projects\Academia1\CapaLogicadeNegocios\obj\Debug\CapaLogicadeNegocios.csprojResolveAssemblyReference.cache
+C:\Users\mecc\documents\visual studio 2015\Projects\Academia1\CapaLogicadeNegocios\obj\Debug\CapaLogicadeNegocios.dll
+C:\Users\mecc\documents\visual studio 2015\Projects\Academia1\CapaLogicadeNegocios\obj\Debug\CapaLogicadeNegocios.pdb
